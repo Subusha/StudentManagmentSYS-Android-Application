@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StudentManagementApp</string>
+    <string name="student_management_system">Student Management System</string>
+    <string name="welcome_to_the_student_management_system">Welcome!!! This is the Student Management System.
+        You can now use this system to record student details</string>
+    <string name="add_student">Add Student</string>
+    <string name="display_student_details">Display Student Details</string>
+    <string name="update_student_details">Update Student Details</string>
+    <string-array name="Course">
+        <item>Business</item>
+        <item>Computing</item>
+        <item>Engineering</item>
+    </string-array>
+    <string-array name="Batch">
+        <item>FCIT</item>
+        <item>Year 1</item>
+        <item>Year 2</item>
+        <item>Year 3</item>
+    </string-array>
+    <string-array name="SearchItem">
+        <item>ID</item>
+        <item>First Name</item>
+        <item>Last Name</item>
+        <item>Email</item>
+        <item>Address</item>
+        <item>City</item>
+        <item>Tel No</item>
+        <item>Course</item>
+        <item>Year</item>
+        <item>Semester</item>
+    </string-array>
+</resources>
